@@ -1,0 +1,39 @@
+body {
+    align-items: center;
+    background-image: url(../img/fondo.jpg);
+    opacity: 0.9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    align-items: center;
+    text-align: center;
+    background-color: bisque;
+    color: black;
+}
+
+.centrar {
+    align-items: center;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    align-items: center;
+    background-color: bisque;
+    color: black;
+}
+
+.fonta {
+    background-image: url(../img/fondotabla.jpg);
+    opacity: 0.9;
+}
+
+.container tr {
+    color: black;
+}
+
+label {
+    color: black;
+    background-color: aliceblue;
+}
